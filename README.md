@@ -92,7 +92,7 @@ for n in lengths:
 6. RUN
 
 ```error
-  File "d:\usb\tps\tpalgo\tp_test.py", line 1, in <module>
+  File "tp_test.py", line 1, in <module>
     import numpy as np
 ModuleNotFoundError: No module named 'numpy'
 ```
