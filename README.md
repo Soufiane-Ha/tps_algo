@@ -1,4 +1,4 @@
-> # tps_algo
+ # tps_algo
  ## tasks : 
  ceate the following algorithms : 
 1. sequantial_search
